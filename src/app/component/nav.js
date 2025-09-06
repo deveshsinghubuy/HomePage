@@ -18,7 +18,7 @@ const Nav =()=>{
             <div className="">
                 <ul className="flex gap-18 md:gap-12 lg:gap-16 xl:gap-18 2xl:gap-24 justify-center font-poppins text-[16px] md:text-[12px] lg:text-[14px] xl:text-[16px] 2xl:text-[20px] font-medium items-center ">
                     <li><Link href="#home">Home</Link></li>
-                    <li><Link href="#shop">Shop</Link></li>
+                    <li><Link href="/shop">Shop</Link></li>
                     <li><Link href="#about">About</Link></li>
                     <li><Link href="#contact">Contact</Link></li>
                 </ul>
